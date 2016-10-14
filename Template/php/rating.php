@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+     <?php 
+include "HF/header.php";
+?>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <center>
+<table  align="center" border="0">
+	 <form action="http://localhost/Forum/forum.php " method="POST">
+		<tr>
+              <td>Review:</td>
+                <td><textarea name="message" rows="5" cols="50" style="color:black;"></textarea></td>
+            </tr>
+            <tr>
+            <td> </td>
+            <td><button type="Button" class="btn btn-success btn-lg">Submit</button></td>
+            </tr>
+            <p>Star Rating</p>
+<div id="stars">
+<span>&#9734</span><span>&#9734</span><span>&#9734</span><span>&#9734</span><span>&#9734</span>
+</div>
+	</form>
+
+</table>
+</center>
+    </body>
+</html>
+<?php
+include "HF/footer.php";
+?>  

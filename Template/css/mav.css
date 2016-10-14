@@ -1,0 +1,76 @@
+body{
+  		background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
+  		background-size: cover;
+  		font-family: sans-serif;
+  		font-size: 20px;
+  		font-weight: bold;
+  		color: red;
+  		overflow-x: hidden;
+                overflow-y: hidden;
+  	}
+  	table{
+  		font-size: 20px;
+  		margin: 100px;
+  	}
+        .btn-lg{
+	border-radius: 24px;
+        padding: 22px;
+       }
+.btn-lg1{
+  border-radius: 24px;
+  padding: 20px 18px 20px 18px;
+  font-size: 18px;
+}
+#footer
+{
+  position:absolute;bottom:0px;
+      background-color:black;
+    left: 0px;
+    right: 0px;
+text-align:center;
+color: white;
+}
+p{
+   color: red;
+   font-size: 40px;
+   margin: 0 0 0 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+#stars > span{
+	display: inline-block;
+	font-size: 60px;
+	color: red;
+}
+
+#stars:hover > span:before{
+	content: '\2605';
+	position: absolute;
+}
+#stars > span:hover ~ span:before{
+	content: '';
+}
