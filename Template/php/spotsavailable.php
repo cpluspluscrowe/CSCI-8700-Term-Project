@@ -10,19 +10,19 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/ytplayer.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/ytplayer.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 
@@ -130,7 +130,7 @@
 
             <div class="background-image-holder">
 
-                <img alt="Background Image" class="background-image" src="img/cover14.jpg">
+                <img alt="Background Image" class="background-image" src="../images/cover14.png">
 
             </div>
 
@@ -170,7 +170,7 @@
 
             <div class="background-image-holder">
 
-                <img alt="image" class="background-image" src="img/backround.jpg"sss>
+                <img alt="image" class="background-image" src="../images/backround.jpg">
 
             </div>
 
@@ -252,7 +252,7 @@
 
 		                    <div class="feature boxed cast-shadow-light">
 
-		                        <img alt="Pic" class="image-small inline-block mb24" src="img/avatar2.png">
+		                        <img alt="Pic" class="image-small inline-block mb24" src="../images/avatar2.png">
 
 		                        <h4>Manju</h4>
 
@@ -283,9 +283,7 @@
 
 		            <div class="col-md-7 col-sm-6 text-center mb-xs-10">
 
-		                    <img class="cast-shadow" alt="Screenshot" src="img/Bugatti-Chiron-2016.jpg">
-
-		                </div>--></div>
+		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.png">
 
 		        </div>
 
