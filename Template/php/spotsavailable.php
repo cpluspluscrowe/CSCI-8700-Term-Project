@@ -29,8 +29,7 @@
 </head>
 
 <body>
-
-    <div class="nav-container">
+<div class="nav-container">
 
         <nav>
 
@@ -130,7 +129,11 @@
 
             <div class="background-image-holder">
 
+<<<<<<< HEAD
                 <img alt="Background Image" class="background-image" src="../images/cover14.png">
+=======
+                <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
+>>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
             </div>
 
@@ -170,7 +173,11 @@
 
             <div class="background-image-holder">
 
+<<<<<<< HEAD
                 <img alt="image" class="background-image" src="../images/backround.jpg">
+=======
+                <img alt="image" class="background-image" src="../images/background.jpg"sss>
+>>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
             </div>
 
@@ -283,7 +290,11 @@
 
 		            <div class="col-md-7 col-sm-6 text-center mb-xs-10">
 
+<<<<<<< HEAD
 		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.png">
+=======
+		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.jpg">
+>>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
 		        </div>
 
@@ -312,13 +323,7 @@
                 </div>
 
                 <div class="row">
-
-                    <div class="col-sm-6">
-
-                        <span class="sub" t>© Copyright 2016 RockUrSocksOff</span>
-
-                    </div>
-
+                    
                     <div class="col-sm-6 text-right">
 
                     </div>
@@ -348,5 +353,8 @@
     <script src="js/scripts.js"></script>
 
 </body>
+<?php 
+include "footer.php";
+?>  
 
 </html>

@@ -103,7 +103,9 @@
 		                                </li>
 
 		                            </ul>
+
                                 <li>
+
 		                            <a href="contact.html">Contact us</a>
 
 		                        </li>
@@ -114,7 +116,7 @@
 
 		            </div>
 
-                        </div>
+		        </div>
 
 		    </nav>
 
@@ -138,7 +140,7 @@
 
                     <div class="col-md-6">
 
-                        <h3 class="uppercase mb0">Bidders for Spot</h3>
+                        <h3 class="uppercase mb0">Spots Available</h3>
 
                     </div>
 
@@ -200,37 +202,29 @@
 
                                             <td width="25%"><strong>ratings</strong></td>
 
-                                            <td width="25%"><strong>Bids</strong></td>
-
                                         </tr>
 
                                         <tr>
 
-                                            <td><strong>Riddhi</strong></td>
+                                            <td><strong>Manju</strong></td>
 
                                             <td>4/5</td>
 
-                                            <td>$1</td>
-
                                         </tr>
 
                                         <tr>
 
-                                            <td><strong>Vaishnavi</strong></td>
+                                            <td><strong>rucha</strong></td>
 
                                             <td>4.2/5</td>
 
-                                            <td>$2</td>
-
                                         </tr>
 
                                         <tr>
 
-                                            <td><strong>Judy</strong></td>
+                                            <td><strong>Chad</strong></td>
 
                                             <td>4.4/5</td>
-
-                                            <td>$3</td>
 
                                         </tr>
 
@@ -244,7 +238,7 @@
 
 		<div class="nav-container">
 
-		</div>		
+		</div>
 
 		<div class="main-container">
 
@@ -260,7 +254,7 @@
 
 		                        <img alt="Pic" class="image-small inline-block mb24" src="images/avatar2.png">
 
-		                        <h4>Judy</h4>
+		                        <h4>Manju</h4>
 
                                 <span>
 
@@ -278,13 +272,12 @@
 
 		                    </div>
 
+
 		                <!--<div class="col-md-6 col-md-push-3 text-center">
 
                         <!--<div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">-->
-
-		                    <a class="btn-filled btn" href="#">accept</a>
-
-                            <a class="btn-filled btn" href="#">reject</a>
+		                    
+		                    <a class="btn-filled btn" href="#">spot request/cancel request</a>
 
 		                </div>
 
@@ -293,7 +286,7 @@
 		                    <img class="cast-shadow" alt="Screenshot" src="images/Bugatti-Chiron-2016.jpg">
 
 		        </div>
-		       
+
 		    </section></div>
 
                         </div>
@@ -313,9 +306,9 @@
                 <div class="row">
 
                     <div class="col-md-4 col-sm-6">
-
+                  
                     </div>
-
+                    
                 </div>
 
                 <div class="row">
