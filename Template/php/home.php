@@ -34,4 +34,5 @@ include "header.php";
 </html>
  <?php
 include "footer.php";
+
 ?>   
