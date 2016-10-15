@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php 
+        include "header.php";
+    ?> 
 <head>
   <title>Parking Stall Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="mockup.css">
-  <script src="jquery-3.1.0.js"></script>
+  <link rel="stylesheet" type="text/css" href="../css/mockup.css">
+  <script src="../script/jquery-3.1.0.js"></script>
+  <script src="../script/script.js"></script>
 </head>
 	<body>
 		<div class="content">
-		<a href="mainPage.html"><button>Home Page</button></a>
+		<a href="mainPage.php"><button>Home Page</button></a>
 
 		  <h1>Parking Stall Page</h1>
 		  <p>Parking Location Live Map</p> 
@@ -40,3 +44,6 @@
 		</div>
 	</body>
 </html>
+ <?php
+include "footer.php";
+?> 

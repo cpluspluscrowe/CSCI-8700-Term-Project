@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php 
+        include "header.php";
+    ?> 
 <head>
   <title>Main Page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="mockup.css">
-  <script src="jquery-3.1.0.js"></script>
-  <script src="script.js"></script>
+  <link rel="stylesheet" type="text/css" href="../css/mockup.css">
+  <script src="../script/jquery-3.1.0.js"></script>
+  <script src="../script/script.js"></script>
 
 </head>
 	<body>
@@ -18,10 +21,10 @@
 				<h4> Display parking locations:
 					<select id="parkingSelect">
 						<option selected="selected">Parking lot</option>
-						<option value="parkingStall.html">Thomson Alumni</option>
-						<option value="parkingStall.html">Milo Bail</option>
-						<option value="parkingStall.html">ASH</option>
-						<option value="parkingStall.html">HPER</option>
+						<option value="parkingStall.php">Thomson Alumni</option>
+						<option value="parkingStall.php">Milo Bail</option>
+						<option value="parkingStall.php">ASH</option>
+						<option value="parkingStall.php">HPER</option>
 					</select>
 				</h4>
 				
@@ -32,3 +35,6 @@
 		</div>
 	</body>
 </html>
+ <?php
+include "footer.php";
+?> 
