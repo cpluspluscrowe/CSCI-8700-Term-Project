@@ -3,26 +3,30 @@
 <html lang="en">
 
 <head>
-
+<style>
+ body{
+      background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
+     }
+</style>
     <meta charset="utf-8">
 
     <title>MavPark</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/ytplayer.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/ytplayer.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
 
-    <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 
@@ -126,11 +130,11 @@
 
         <section class="page-title page-title-4 image-bg overlay parallax">
 
-            <div class="background-image-holder">
+           <!-- <div class="background-image-holder">
 
-                <img alt="Background Image" class="background-image" src="images/cover14.jpg">
+                <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
 
-            </div>
+            </div>-->
 
             <div class="container">
 
@@ -166,11 +170,11 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
-            <div class="background-image-holder">
+            <!--<div class="background-image-holder">
 
-                <img alt="image" class="background-image" src="images/background.jpg"sss>
+                <img alt="image" class="background-image" src="../images/background.jpg"sss>
 
-            </div>
+            </div>-->
 
              <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
@@ -258,7 +262,7 @@
 
 		                    <div class="feature boxed cast-shadow-light">
 
-		                        <img alt="Pic" class="image-small inline-block mb24" src="images/avatar2.png">
+		                        <img alt="Pic" class="image-small inline-block mb24" src="../images/avatar2.png">
 
 		                        <h4>Judy</h4>
 
@@ -290,7 +294,7 @@
 
 		            <div class="col-md-7 col-sm-6 text-center mb-xs-10">
 
-		                    <img class="cast-shadow" alt="Screenshot" src="images/Bugatti-Chiron-2016.jpg">
+		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.jpg">
 
 		        </div>
 		       

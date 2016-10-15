@@ -3,6 +3,11 @@
 <html lang="en">
 
 <head>
+    <style>
+        body{
+            background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
+        }
+        </style>
 
     <meta charset="utf-8">
 
@@ -127,11 +132,10 @@
 
         <section class="page-title page-title-4 image-bg overlay parallax">
 
-            <div class="background-image-holder">
-
-                <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
-
-            </div>
+           <!-- <div class="background-image-holder"> </div>
+            <div class="background-image" >
+                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
+            </div> -->
 
             <div class="container">
 
@@ -167,11 +171,12 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
-            <div class="background-image-holder">
+           <!--  <div class="background-image-holder"></div>
 
-                <img alt="image" class="background-image" src="../images/background.jpg"sss>
-
-            </div>
+                <div class="background-image" >
+                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
+            </div> -->
+           
 
              <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
