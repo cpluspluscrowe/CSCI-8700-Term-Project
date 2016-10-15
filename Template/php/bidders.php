@@ -1,7 +1,9 @@
 <!doctype html>
 
-<html lang="en">
-
+<html>
+ <!--   <?php 
+include "header.php";
+?> -->
 <head>
 <style>
  body{
@@ -27,6 +29,8 @@
     <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    
+    <!--<link href="../css/mav.css" rel="stylesheet" type="text/css" media="all" />-->
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 
@@ -74,39 +78,6 @@
 
 		                        </li>
 
-		                        <li class="has-dropdown">
-
-		                            <a href="#">Services </a>
-
-		                            <ul class="mega-menu">
-
-		                                <li>
-
-		                                    <ul>
-
-		                                        <li>
-
-		                                            <a href="service1.html">abc</a>
-
-		                                        </li>
-
-		                                        <li>
-
-		                                            <a href="service2.html">efg</a>
-
-		                                        </li>
-
-    	                                        <li>
-
-		                                            <a href="service3.html">hik</a>
-
-		                                        </li>
-
-		                                    </ul>
-
-		                                </li>
-
-		                            </ul>
                                 <li>
 		                            <a href="contact.html">Contact us</a>
 
@@ -126,11 +97,11 @@
 
     </div>
 
-    <div class="main-container" background-image: i2.png;>
+    <div class="main-container" >
 
         <section class="page-title page-title-4 image-bg overlay parallax">
 
-           <!-- <div class="background-image-holder">
+           <!--<div class="background-image-holder">
 
                 <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
 
@@ -150,17 +121,9 @@
 
                         <ol class="breadcrumb breadcrumb-2">
 
-                            <li>
-
-                                <a href="#">Home</a>
-
-                            </li>
-
-                            <li class="active">Drivers page&nbsp;</li>
-
                         </ol>
 
-                    </div>
+                    </div> 
 
                 </div>
 
@@ -170,13 +133,13 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
-            <!--<div class="background-image-holder">
+           <!-- <div class="background-image-holder">
 
-                <img alt="image" class="background-image" src="../images/background.jpg"sss>
+                <img alt="image" class="background-image" src="../images/background.jpg">
 
             </div>-->
 
-             <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
+             <div class="container-fluid" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
                 <div class="row">
 
@@ -268,7 +231,7 @@
 
                                 <span>
 
-		                            <strong>car model</strong> toyota</span>
+		                            <strong>car model</strong> Bugatti </span>
 
 		                        <p>
 
@@ -344,19 +307,19 @@
 
     </div>
 
-    <script src="js/jquery.min.js"></script>
+    <script src="../script/jquery.min.js"></script>
 
-    <script src="js/bootstrap.min.js"></script>
+    <script src="../script/bootstrap.min.js"></script>
 
-    <script src="js/twitterfetcher.min.js"></script>
+    <script src="../script/twitterfetcher.min.js"></script>
 
-    <script src="js/spectragram.min.js"></script>
+    <script src="../script/spectragram.min.js"></script>
 
-    <script src="js/smooth-scroll.min.js"></script>
+    <script src="../script/smooth-scroll.min.js"></script>
 
-    <script src="js/parallax.js"></script>
+    <script src="../script/parallax.js"></script>
 
-    <script src="js/scripts.js"></script>
+    <script src="../script/scripts.js"></script>
 
 </body>
 

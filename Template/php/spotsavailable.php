@@ -151,13 +151,7 @@
 
                         <ol class="breadcrumb breadcrumb-2">
 
-                            <li>
-
-                                <a href="#">Home</a>
-
-                            </li>
-
-                            <li class="active">Drivers page&nbsp;</li>
+                            
 
                         </ol>
 
@@ -331,19 +325,19 @@
 
     </div>
 
-    <script src="js/jquery.min.js"></script>
+    <script src="../script/jquery.min.js"></script>
 
-    <script src="js/bootstrap.min.js"></script>
+    <script src="../script/bootstrap.min.js"></script>
 
-    <script src="js/twitterfetcher.min.js"></script>
+    <script src="../script/twitterfetcher.min.js"></script>
 
-    <script src="js/spectragram.min.js"></script>
+    <script src="../script/spectragram.min.js"></script>
 
-    <script src="js/smooth-scroll.min.js"></script>
+    <script src="../script/smooth-scroll.min.js"></script>
 
-    <script src="js/parallax.js"></script>
+    <script src="../script/parallax.js"></script>
 
-    <script src="js/scripts.js"></script>
+    <script src="../script/scripts.js"></script>
 
 </body>
 <?php 
