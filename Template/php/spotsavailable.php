@@ -3,11 +3,11 @@
 <html lang="en">
 
 <head>
-    <style>
-        body{
-            background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
-        }
-        </style>
+<style>
+ body{
+      background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
+     }
+</style>
 
     <meta charset="utf-8">
 
@@ -34,7 +34,8 @@
 </head>
 
 <body>
-<div class="nav-container">
+
+    <div class="nav-container">
 
         <nav>
 
@@ -132,22 +133,11 @@
 
         <section class="page-title page-title-4 image-bg overlay parallax">
 
-<<<<<<< HEAD
-           <!-- <div class="background-image-holder"> </div>
-            <div class="background-image" >
-                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
-            </div> -->
-=======
-            <div class="background-image-holder">
+          <!--  <div class="background-image-holder">
 
-<<<<<<< HEAD
-                <img alt="Background Image" class="background-image" src="../images/cover14.png">
-=======
-                <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
+                <img alt="Background Image" class="background-image" src="images/cover14.jpg">
 
-            </div>
->>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
+            </div>-->
 
             <div class="container">
 
@@ -163,7 +153,13 @@
 
                         <ol class="breadcrumb breadcrumb-2">
 
-                            
+                            <li>
+
+                                <a href="#">Home</a>
+
+                            </li>
+
+                            <li class="active">Drivers page&nbsp;</li>
 
                         </ol>
 
@@ -177,28 +173,11 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
-<<<<<<< HEAD
-           <!--  <div class="background-image-holder"></div>
+           <!-- <div class="background-image-holder">
 
-<<<<<<< HEAD
-                <div class="background-image" >
-                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
-            </div> -->
-           
-=======
-<<<<<<< HEAD
-=======
-            <div class="background-image-holder">
+                <img alt="image" class="background-image" src="images/background.jpg"sss>
 
-<<<<<<< HEAD
->>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
-                <img alt="image" class="background-image" src="../images/backround.jpg">
-=======
-                <img alt="image" class="background-image" src="../images/background.jpg"sss>
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
-
-            </div>
->>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
+            </div>-->
 
              <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
@@ -309,11 +288,7 @@
 
 		            <div class="col-md-7 col-sm-6 text-center mb-xs-10">
 
-<<<<<<< HEAD
-		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.png">
-=======
 		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.jpg">
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
 		        </div>
 
@@ -342,7 +317,13 @@
                 </div>
 
                 <div class="row">
-                    
+
+                    <div class="col-sm-6">
+
+                        <span class="sub" t>© Copyright 2016 RockUrSocksOff</span>
+
+                    </div>
+
                     <div class="col-sm-6 text-right">
 
                     </div>
@@ -372,8 +353,5 @@
     <script src="../script/scripts.js"></script>
 
 </body>
-<?php 
-include "footer.php";
-?>  
 
 </html>
