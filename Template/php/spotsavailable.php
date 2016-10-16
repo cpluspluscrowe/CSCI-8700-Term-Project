@@ -177,6 +177,7 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
+<<<<<<< HEAD
            <!--  <div class="background-image-holder"></div>
 
 <<<<<<< HEAD
@@ -186,6 +187,11 @@
            
 =======
 <<<<<<< HEAD
+=======
+            <div class="background-image-holder">
+
+<<<<<<< HEAD
+>>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
                 <img alt="image" class="background-image" src="../images/backround.jpg">
 =======
                 <img alt="image" class="background-image" src="../images/background.jpg"sss>
