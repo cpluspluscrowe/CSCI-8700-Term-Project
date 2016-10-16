@@ -48,7 +48,7 @@ include "header.php";
 
 		            <div class="module left">
 
-		                <a href="index.html">
+		                <a href="mainPage.php">
 
                             <h2 class="mb8" style="color:#e74c3c; font-weight:bold;">MavPark</h2>
 
