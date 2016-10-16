@@ -39,7 +39,7 @@ include "header.php";
 	 </tr>
 		<tr>
               <td>Complaint:</td>
-                <td><textarea name="message" rows="10" cols="50" style="color:black;"></textarea></td>
+                <td><textarea name="message" rows="5" cols="25" style="color:black;"></textarea></td>
             </tr>
             <tr>
             <td> </td>
