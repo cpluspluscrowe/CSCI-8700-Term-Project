@@ -28,6 +28,8 @@
     <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    
+     <link href="../css/popup.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 
@@ -278,7 +280,9 @@
 
                         <!--<div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">-->
 		                    
-		                    <a class="btn-filled btn" href="#">spot request/cancel request</a>
+		                   <a class="btn-filled btn" href="#">Spot request</a>
+                                   
+                                    <a class="btn-filled btn" href="refund.php">Cancel/Refund request</a>
 
 		                </div>
 
