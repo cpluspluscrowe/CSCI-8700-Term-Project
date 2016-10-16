@@ -37,8 +37,9 @@
 							<option value="$2.0">$2.0</option>
 							<option value="$4.0">$4.0</option>
 						</select> </p>
-						<a href="spotsavailable.php"><button>Check Spot</button></a>
 					</form>
+					<a href="spotsavailable.php"><button>Check Spot</button></a>
+
 				</div>
 			</div>
 		</div>
