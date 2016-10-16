@@ -43,7 +43,7 @@ include "header.php";
             </tr>
             <tr>
             <td> </td>
-            <td><button type="Button" class="btn btn-success btn-lg">Submit</button></td>
+            <td><center><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/DriverRefund.php"><button type="Button" class="btn btn-success btn-lg">Submit</button></td>
             </tr>
 	</form>
 </table>
