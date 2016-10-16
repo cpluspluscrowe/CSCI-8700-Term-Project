@@ -139,7 +139,7 @@ include "header.php";
 
             </div>-->
 
-             <div class="container-fluid" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
+             <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
                 <div class="row">
 
