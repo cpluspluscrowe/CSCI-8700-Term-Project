@@ -67,11 +67,11 @@
 
 		                        <li>
 
-		                            <a href="index.html">Home</a>
+		                            <a href="home.php">Home</a>
 
 		                        </li><li>
 
-		                            <a href="about.html">about us </a>
+		                            <a href="about.php">about us </a>
 
 		                        </li>
 
@@ -97,7 +97,7 @@
 
 		                                        </li>
 
-    	                                        <li>
+    	                                                <li>
 
 		                                            <a href="service3.html">hik</a>
 
@@ -108,8 +108,12 @@
 		                                </li>
 
 		                            </ul>
+                                            <li>
 
-                                <li>
+		                                <a href="help.php">Help</a>
+
+		                            </li>
+                                        <li>
 
 		                            <a href="contact.html">Contact us</a>
 
@@ -152,14 +156,6 @@
                     <div class="col-md-6 text-right">
 
                         <ol class="breadcrumb breadcrumb-2">
-
-                            <li>
-
-                                <a href="#">Home</a>
-
-                            </li>
-
-                            <li class="active">Drivers page&nbsp;</li>
 
                         </ol>
 
