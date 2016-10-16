@@ -37,7 +37,7 @@
 							<option value="$2.0">$2.0</option>
 							<option value="$4.0">$4.0</option>
 						</select> </p>
-						<input type = "submit" value = "Park">
+						<a href="spotsavailable.php"><button>Check Spot</button></a>
 					</form>
 				</div>
 			</div>
