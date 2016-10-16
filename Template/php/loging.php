@@ -29,7 +29,7 @@ include "header.php";
     echo 'You Are Successfully Logged In';
     ?>
     </p>    
-    <a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/mainPage.php"><button type="Button" class="btn btn-success btn-lg">Get Started</button>
+    <a href="mainPage.php"><button type="Button" class="btn btn-success btn-lg">Get Started</button>
 </center>
 </body>
 </html>
