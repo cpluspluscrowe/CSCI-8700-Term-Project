@@ -70,19 +70,56 @@ include "header.php";
 
 		                        <li>
 
-		                            <a href="index.html">Home</a>
+		                            <a href="home.php">Home</a>
 
 		                        </li><li>
 
-		                            <a href="about.html">about us </a>
+		                            <a href="about.php">about us </a>
 
 		                        </li>
+                                        <li class="has-dropdown">
 
-                                <li>
-		                            <a href="contact.html">Contact us</a>
+		                            <a href="#">Services </a>
 
-		                        </li>
+		                            <ul class="mega-menu">
 
+		                                <li>
+
+		                                    <ul>
+
+		                                        <li>
+
+		                                            <a href="service1.html">abc</a>
+
+		                                        </li>
+
+		                                        <li>
+
+		                                            <a href="service2.html">efg</a>
+
+		                                        </li>
+
+    	                                                <li>
+
+		                                            <a href="service3.html">hik</a>
+
+		                                        </li>
+
+		                                    </ul>
+
+		                                </li>
+
+		                            </ul>
+                                            <li>
+
+		                               <a href="help.php">Help</a>
+
+		                            </li>  
+                                            <li>
+		                               <a href="contact.php">Contact us</a>
+
+		                            </li>
+                                        
 		                    </ul>
 
 		                </div>
