@@ -24,9 +24,9 @@ include "header.php";
 <td></td>
 </tr>
 <tr>
-<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/login.php"><button type="button" class="btn btn-success btn-lg">Log In</button></td>
+<td><a href="login.php"><button type="button" class="btn btn-success btn-lg">Log In</button></td>
 <td></td>
-<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/register.php"><button type="button" class="btn btn-success btn-lg">Register</button></td>
+<td><a href="register.php"><button type="button" class="btn btn-success btn-lg">Register</button></td>
 </tr>
 </form>
 </table>
