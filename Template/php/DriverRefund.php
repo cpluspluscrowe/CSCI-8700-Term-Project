@@ -43,7 +43,8 @@ include "header.php";
                                                                                                         <th>        </th>
 													<td>16:45</td>
                                                                                                         <th>        </th>
-													<td><a href="#" class="button special">Rate</td>
+													<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/rating.php" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/refund.php" class="button special">Refund</td>
 												</tr>
 												<tr>
 													<td>2</td>
@@ -52,7 +53,8 @@ include "header.php";
                                                                                                         <th>        </th>
 													<td>12:30</td>
                                                                                                         <th>        </th>
-													<td><a href="#" class="button special">Rate</td>
+													<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/rating.php" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/refund.php" class="button special">Refund</td>
 												</tr>
 												<tr>
 													<td>3</td>
@@ -61,7 +63,8 @@ include "header.php";
                                                                                                         <th>        </th>
 													<td>10.06</td>
                                                                                                         <th>        </th>
-													<td><a href="#" class="button special">Rate</td>
+													<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/rating.php" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/refund.php" class="button special">Refund</td>
 												</tr>
 												<tr>
 													<td>4</td>
@@ -70,7 +73,8 @@ include "header.php";
                                                                                                         <th>        </th>
 													<td>9:17</td>
                                                                                                         <th>        </th>
-													<td><a href="#" class="button special">Rate</td>
+													<td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/rating.php" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/refund.php" class="button special">Refund</td>
 												</tr>
 												<tr>
 													<td>5</td>
@@ -79,7 +83,8 @@ include "header.php";
                                                                                                         <th>        </th>
 													<td>9:10</td>
                                                                                                         <th>        </th>
-													<td><a href="#" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/rating.php" class="button special">Rate</td>
+                                                                                                        <td><a href="http://localhost/MavPark/CSCI-8700-Term-Project/Template/php/refund.php" class="button special">Refund</td>
 												</tr>
 											</tbody>
 									
