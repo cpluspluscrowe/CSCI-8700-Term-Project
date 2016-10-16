@@ -89,19 +89,19 @@ include "header.php";
 
 		                                        <li>
 
-		                                            <a href="service1.html">abc</a>
+		                                            <a href="service1.html">Service1</a>
 
 		                                        </li>
 
 		                                        <li>
 
-		                                            <a href="service2.html">efg</a>
+		                                            <a href="service2.html">Service2</a>
 
 		                                        </li>
 
     	                                                <li>
 
-		                                            <a href="service3.html">hik</a>
+		                                            <a href="service3.html">Service3</a>
 
 		                                        </li>
 
@@ -210,7 +210,7 @@ include "header.php";
 
                                         <tr>
 
-                                            <td><strong>Riddhi</strong></td>
+                                            <td><strong>Juliet</strong></td>
 
                                             <td>4/5</td>
 
