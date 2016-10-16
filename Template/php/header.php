@@ -18,7 +18,6 @@
   <li><a href="#news">About Us</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><h4>MavPark</h4> </li>
-  <li style="float:right"><a class="active" href="#about">About</a></li>
 </ul>
         <?php
         // put your code here
