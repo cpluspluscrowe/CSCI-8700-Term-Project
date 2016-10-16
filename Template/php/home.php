@@ -16,7 +16,7 @@ include "header.php";
 <body> 
 <center>
 <table>
-<form accept="file:///C:/Users/RUCHA/Desktop/coursera/SignUp.html" method="POST">
+<form accept="" method="POST">
     <!-- The directory needs to be changed for the links. -->
 <tr>
 <td></td>
