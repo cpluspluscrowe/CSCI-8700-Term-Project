@@ -3,11 +3,6 @@
 <html lang="en">
 
 <head>
-    <style>
-        body{
-            background-image: url('http://eskipaper.com/images/parking-lot-wallpaper-1.jpg');
-        }
-        </style>
 
     <meta charset="utf-8">
 
@@ -28,13 +23,15 @@
     <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href="../css/custom.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="../css/mav.css" rel="stylesheet" type="text/css" media="all" />
 
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 
 </head>
 
 <body>
-<div class="nav-container">
+
+    <div class="nav-container">
 
         <nav>
 
@@ -132,22 +129,11 @@
 
         <section class="page-title page-title-4 image-bg overlay parallax">
 
-<<<<<<< HEAD
-           <!-- <div class="background-image-holder"> </div>
-            <div class="background-image" >
-                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
-            </div> -->
-=======
             <div class="background-image-holder">
 
-<<<<<<< HEAD
                 <img alt="Background Image" class="background-image" src="../images/cover14.png">
-=======
-                <img alt="Background Image" class="background-image" src="../images/cover14.jpg">
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
             </div>
->>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
 
             <div class="container">
 
@@ -155,7 +141,7 @@
 
                     <div class="col-md-6">
 
-                        <h3 class="uppercase mb0">Spots Available</h3>
+                        <h3 class="uppercase mb0">Home</h3>
 
                     </div>
 
@@ -163,7 +149,13 @@
 
                         <ol class="breadcrumb breadcrumb-2">
 
-                            
+                            <li>
+
+                                <a href="#">Home</a>
+
+                            </li>
+
+                            <li class="active">Drivers page&nbsp;</li>
 
                         </ol>
 
@@ -177,22 +169,11 @@
 
          <section style="padding-bottom:0px; overflow:scroll;" class="image-bg overlay">
 
-           <!--  <div class="background-image-holder"></div>
+            <div class="background-image-holder">
 
-<<<<<<< HEAD
-                <div class="background-image" >
-                <img src="http://eskipaper.com/images/parking-lot-wallpaper-1.jpg">
-            </div> -->
-           
-=======
-<<<<<<< HEAD
                 <img alt="image" class="background-image" src="../images/backround.jpg">
-=======
-                <img alt="image" class="background-image" src="../images/background.jpg"sss>
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
 
             </div>
->>>>>>> cf6f20b306ae985d89f6aa31b800fa7222b4798a
 
              <div class="container" style="padding:10px; background: rgba(68, 62, 62, 0.5); margin-bottom:50px; color:white;">
 
@@ -212,45 +193,7 @@
 
                             <p class="lead"style="text-align:justify";letter-spacing: 2px;>
 
-                                   <table>
-
-                                    <tbody>
-
-                                        <tr>
-
-                                            <td width="25%"><strong>Drivers names</strong></td>
-
-                                            <td width="25%"><strong>ratings</strong></td>
-
-                                        </tr>
-
-                                        <tr>
-
-                                            <td><strong>Manju</strong></td>
-
-                                            <td>4/5</td>
-
-                                        </tr>
-
-                                        <tr>
-
-                                            <td><strong>rucha</strong></td>
-
-                                            <td>4.2/5</td>
-
-                                        </tr>
-
-                                        <tr>
-
-                                            <td><strong>Chad</strong></td>
-
-                                            <td>4.4/5</td>
-
-                                        </tr>
-
-                                    </tbody>
-
-                                </table></centre>
+                           
 
                             </p>
 
@@ -272,23 +215,17 @@
 
 		                    <div class="feature boxed cast-shadow-light">
 
-		                        <img alt="Pic" class="image-small inline-block mb24" src="../images/avatar2.png">
+		                        
 
-		                        <h4>Manju</h4>
+		                        <h4>MavPark is special, because it interfaces drivers with users. Users will be able to
 
-                                <span>
+signal that they are leaving a parking spot. This interaction will direct drivers to open
 
-		                            <strong>car model</strong> toyota</span>
+parking spots. This will reduce overall congestion and the time required to find parking.
 
-		                        <p>
+Faster parking results in higher user satisfaction.</h4>
 
-		                            review of driver
-
-		                        </p>
-
-		                        <span>
-
-		                            <strong>Contact</strong> 12345</span>
+                               
 
 		                    </div>
 
@@ -297,17 +234,14 @@
 
                         <!--<div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1">-->
 		                    
-		                    <a class="btn-filled btn" href="#">spot request/cancel request</a>
+		                    
 
 		                </div>
 
 		            <div class="col-md-7 col-sm-6 text-center mb-xs-10">
 
-<<<<<<< HEAD
-		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.png">
-=======
-		                    <img class="cast-shadow" alt="Screenshot" src="../images/Bugatti-Chiron-2016.jpg">
->>>>>>> a80fa16467ed6bf1320c0cc67e34b7ecd6edd799
+                                <a class="btn-filled btn" href="#">REGISTER</a><br>
+                                      <a class="btn-filled btn" href="#">LOGIN</a>
 
 		        </div>
 
@@ -336,7 +270,13 @@
                 </div>
 
                 <div class="row">
-                    
+
+                    <div class="col-sm-6">
+
+                        <span class="sub" t>© Copyright 2016 RockUrSocksOff</span>
+
+                    </div>
+
                     <div class="col-sm-6 text-right">
 
                     </div>
@@ -351,23 +291,20 @@
 
     </div>
 
-    <script src="../script/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 
-    <script src="../script/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <script src="../script/twitterfetcher.min.js"></script>
+    <script src="js/twitterfetcher.min.js"></script>
 
-    <script src="../script/spectragram.min.js"></script>
+    <script src="js/spectragram.min.js"></script>
 
-    <script src="../script/smooth-scroll.min.js"></script>
+    <script src="js/smooth-scroll.min.js"></script>
 
-    <script src="../script/parallax.js"></script>
+    <script src="js/parallax.js"></script>
 
-    <script src="../script/scripts.js"></script>
+    <script src="js/scripts.js"></script>
 
 </body>
-<?php 
-include "footer.php";
-?>  
 
 </html>
